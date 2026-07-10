@@ -113,7 +113,7 @@ R: useState es una función que permite a los componentes funcionales agregarles
 
 Por ejemplo en mi aplicación, en la función IngresarTarea del componente IngresarTarea.jsx, se utiliza useState para almacenar el valor que el usuario ingresa en el input de tipo texto.
 
-### Enlace del repositorio de Github
+### d) Enlace del repositorio de Github
 https://github.com/Dany-502/t3_act5_react
 
-### Pagina desplegado en GitHub Pages
+### c) Pagina desplegado en GitHub Pages
