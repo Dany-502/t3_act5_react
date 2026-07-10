@@ -1,0 +1,36 @@
+.ingresarTarea {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.ingresarTarea .input {
+    flex: 1;
+    padding: 10px 15px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 16px;
+    outline: none;
+    transition: border-color 0.2s;
+}
+
+.ingresarTarea .input:focus {
+    border-color: #152779;
+}
+
+.ingresarTarea button {
+    padding: 10px 20px;
+    background-color: #152779;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.ingresarTarea button:hover {
+    background-color: #0e1a54;
+}
