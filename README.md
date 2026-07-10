@@ -6,7 +6,7 @@
 * **Estudiante:** Rodriguez Juarez Jose Daniel
 * **No.Control:** 22161222
 * **Grupo:** 7SC
-* **GitHub Pages:** 
+* **GitHub Pages:** https://dany-502.github.io/t3_act5_react/
 
 
 ## Descripción 
@@ -98,7 +98,7 @@ las tareas en la página. Se encarga de mostrar la tarea y un boton que permite 
 
 Interfaz donde se puede apreciar el funcionamiento de la aplicación.
 
-![Interfaz](capturas/VistaInterfaz.png)
+![Interfaz](Capturas/VistaInterfaz.png)
 
 # Sección de preguntas
 
@@ -117,3 +117,4 @@ Por ejemplo en mi aplicación, en la función IngresarTarea del componente Ingre
 https://github.com/Dany-502/t3_act5_react
 
 ### c) Pagina desplegado en GitHub Pages
+https://dany-502.github.io/t3_act5_react/
